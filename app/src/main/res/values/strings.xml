@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mars Photo Viewer</string>
+    <string name="placeholder_result">Placeholder result text</string>
+</resources>
